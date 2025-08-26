@@ -50,13 +50,13 @@ scikit-learn
 Örnek giriş senaryosu:
 
 --- Lütfen bilgilerinizi giriniz ---
-Bilet Sınıfı (1=Birinci sınıf, 2=İkinci sınıf, 3=Üçüncü sınıf): 3
-Yaşınız: 22
-Gemideki kardeş/eş sayısı: 1
-Gemideki ebeveyn/çocuk sayısı: 0
-Bilet ücreti (dolar): 7.25
-Cinsiyetiniz (E/erkek veya K/kadın): E
-Bindiği liman: 3 (Southampton)
+- Bilet Sınıfı (1=Birinci sınıf, 2=İkinci sınıf, 3=Üçüncü sınıf): 3
+- Yaşınız: 22
+- Gemideki kardeş/eş sayısı: 1
+- Gemideki ebeveyn/çocuk sayısı: 0
+- Bilet ücreti (dolar): 7.25
+- Cinsiyetiniz (E/erkek veya K/kadın): E
+- Bindiği liman: 3 (Southampton)
 
 
 Model çıktısı örneği:
