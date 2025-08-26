@@ -1,0 +1,13 @@
+# Veri işleme
+pandas
+numpy
+
+# Görselleştirme
+matplotlib
+seaborn
+
+# Makine öğrenmesi
+scikit-learn
+
+# Uyarılar / hata yönetimi 
+warnings
